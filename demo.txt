@@ -1,0 +1,37 @@
+Sit Amet C
+
+Sit Amet Corp.
+1938 Amet Avenue Lake Cowichan USA
+
+Bill To:
+
+ACME Inc. 5171 Dui.
+Street Denver, Colorado USA
+
+Item Services
+
+INVOICE
+
+# 16892
+
+orp.
+
+Date:
+
+Jun 1, 2019
+
+Balance Due: $21,442.80
+
+Quantity
+
+Rate
+
+Amount
+
+1
+
+$17,869.00 $17,869,00
+
+Subtotal:    $17,869,00
+Tax (20%).   $3,573.80 
+Total:       $21.442.80
